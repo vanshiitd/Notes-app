@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/projects/notes/:path*",
+        "destination": "/:path*"
+      }
+    ]
+  }
+  
